@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "hometexts",
+  "info": {
+    "singularName": "hometext",
+    "pluralName": "hometexts",
+    "displayName": "hometext"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_texts",
+  "info": {
+    "singularName": "site-text",
+    "pluralName": "site-texts",
+    "displayName": "Site Text"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "siteText": {
+      "type": "string"
+    }
+  }
+}
